@@ -15,7 +15,7 @@
 网上的《枕上书》的txt都是胡乱整理的，没有一个有效能看的，错别字，乱码太多，排版也极度混乱。所以编者从网上的资源重新整理出《枕上书》全文出来，以供各位阅读。当然更希望各位购买原著支持唐七哟。少看电视剧，多看小说。
 
 在看《枕上书》之前，可以先看《十里桃花》。建议看本人调整顺序后的《三生三世十里桃花cqwrteur版》，同时该bitbucket源上里包含了全部经本人校对过的《三生三世》小说系列。下载链接为 https://bitbucket.org/ejsvifq_mabmip/san-sheng-san-shi/downloads/
-
+github镜象: https://github.com/expnkx/Three-Lives-Three-Worlds
 
 第一卷 [上册]
 
